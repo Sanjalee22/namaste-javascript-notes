@@ -1,6 +1,8 @@
 # Episode 7 : The Scope Chain, Scope & Lexical Environment
 
 * **Scope** in Javascript is directly related to **Lexical Environment**.
+* Lexical environment = local memory of a function's execution context + lexical environment of its parent, i.e where the function is defined..
+* 
 
 * Let's observe the below examples:
 ```js
